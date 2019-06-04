@@ -1,0 +1,13 @@
+application:
+  zo:
+    api:
+      key: <Insert your own Zomato API key here>
+
+zomato:
+  url:
+    details:
+      categoriesUrl: https://developers.zomato.com/api/v2.1/categories
+      collectionsUrl: https://developers.zomato.com/api/v2.1/collections
+      locationsUrl: https://developers.zomato.com/api/v2.1/cities
+      cuisinesUrl: https://developers.zomato.com/api/v2.1/cuisines
+      establishmentsUrl: https://developers.zomato.com/api/v2.1/establishments
